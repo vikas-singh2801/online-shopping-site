@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skkyal/Online-Shopping-Site.git"
+    "url": "git+https://github.com/vikas-singh2801/online-shopping-site.git"
   },
-  "author": "Shlok",
+  "author": "Vikas",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/skkyal/Online-Shopping-Site/issues"
+    "url": "https://github.com/vikas-singh2801/online-shopping-site/issues"
   },
-  "homepage": "https://github.com/skkyal/Online-Shopping-Site#readme",
+  "homepage": "https://github.com/vikas-singh2801/online-shopping-site#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
